@@ -1,0 +1,11 @@
+/*Add colour to font and background*/
+body{
+
+    background-color: rgb(245, 223, 227);
+    color: purple;
+}
+/* Add outline to image and colour to the outline*/
+img{
+    border: 3px solid white;
+    border-radius: 6%;
+}
